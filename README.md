@@ -3,6 +3,8 @@
 # Deep-High-Resolution-Representation-Learning-forCross-Resolution-Person-Re-identification
 Journal of IEEE Transactions on Multimedia (Under review)
 
+<img src="README/fig.png" width="900px"/>
+
 </div>
 
 ## Contents

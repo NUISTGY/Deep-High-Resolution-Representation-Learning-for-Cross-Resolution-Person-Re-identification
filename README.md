@@ -21,4 +21,8 @@ We propose a Deep High-Resolution Pseudo-Siamese Framework (PS-HRNet) to solve t
 
 ## Results
 
+<div align="center">
+
 <img src="README/result.png" width="900px"/>
+
+</div>

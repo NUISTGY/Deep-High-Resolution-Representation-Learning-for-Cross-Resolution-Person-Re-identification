@@ -9,10 +9,10 @@ Journal of IEEE Transactions on Multimedia (Under review)
 
 ## Contents
 1. [Introduction](#introduction)
-2. [Train](#train)
-3. [Test](#test)
+2. [Train(waiting)](#train)
+3. [Test(waiting)](#test)
 4. [Results](#results)
-5. [Citation](#citation)
+5. [Citation(waiting)](#citation)
 6. [Acknowledgements](#acknowledgements)
 
 ## Introduction

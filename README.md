@@ -26,3 +26,8 @@ We propose a Deep High-Resolution Pseudo-Siamese Framework (PS-HRNet) to solve t
 <img src="README/result.png" width="900px"/>
 
 </div>
+
+## Acknowledgements
+
+- This code is built on [HRNet-Image-Classification](https://github.com/HRNet/HRNet-Image-Classification) and [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch). We thank the authors for sharing their codes. To the great spirit of open source!
+- Thank [Z.Dong](https://github.com/dzc2000) and [H.Wang](https://github.com/Rockdow), they are the most important contributors to the related work of the experiment. If you have any questions in the process of testing, you can send them by email or pose issues.

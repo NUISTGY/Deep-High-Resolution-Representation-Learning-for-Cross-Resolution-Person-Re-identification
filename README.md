@@ -23,6 +23,8 @@ We use apex (A PyTorch Extension) a Pytorch extension with NVIDIA-maintained uti
 
 We display the process of the algorithm as an ipynb file, you can use jupyter notebook to view and run it.
 
+You may need HRNet-W32-C ImageNet pretrained models or learn more about HRNet: https://github.com/HRNet/HRNet-Image-Classification.git.
+
 ## Results :trophy:
 
 <div align="center">

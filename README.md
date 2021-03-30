@@ -1,7 +1,7 @@
 <div align="center">
   
 # Deep-High-Resolution Representation Learning for Cross-Resolution Person Re-identification
-Journal of IEEE Transactions on Multimedia (Under review) | arXiv:3660003 [cs.CV] 21 Mar 2021
+Journal of IEEE Transactions on Multimedia (Under review) | arXiv submitted 3660003 [cs.CV] 21 Mar 2021
 <img src="README/fig.png" width="900px"/>
 
 </div>

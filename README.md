@@ -24,6 +24,7 @@ We display the process of the algorithm as an ipynb file, you can use jupyter no
 
 You may need HRNet-W32-C ImageNet pretrained models or learn more about HRNet: https://github.com/HRNet/HRNet-Image-Classification.git.
 
+Wanna know more detail of the first phase？ Check this：https://github.com/NUISTGY/Person-re-identification-based-on-HRNet
 ## Results :trophy:
 
 <div align="center">

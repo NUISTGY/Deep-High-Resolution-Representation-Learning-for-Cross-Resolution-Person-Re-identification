@@ -1,7 +1,7 @@
 <div align="center">
   
 # Deep-High-Resolution Representation Learning for Cross-Resolution Person Re-identification
-Journal of IEEE Transactions on TIP (Under review) | https://arxiv.org/abs/2105.11722
+Journal of IEEE Transactions on TIP (Included)
 <img src="README/fig.png" width="900px"/>
 
 </div>
